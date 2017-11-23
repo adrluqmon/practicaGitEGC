@@ -1,0 +1,2 @@
+# practicaGitEGC
+Ejercicio Practico Git
